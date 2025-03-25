@@ -18,7 +18,7 @@ KernelSU uses kprobe to do kernel hooks, if kprobe runs well in your kernel, it'
 First, add KernelSU to your kernel source tree:
 
 ```sh
-curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -s v0.9.5
+curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -s v0.9.5curl -LSs
 ```
 
 ::: info
